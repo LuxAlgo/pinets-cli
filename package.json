@@ -13,13 +13,13 @@
     "Backtesting",
     "CLI"
   ],
-  "homepage": "https://github.com/QuantForgeOrg/pinets-cli#readme",
+  "homepage": "https://www.luxalgo.com/pinets/",
   "bugs": {
-    "url": "https://github.com/QuantForgeOrg/pinets-cli/issues"
+    "url": "https://github.com/LuxAlgo/pinets-cli/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/QuantForgeOrg/pinets-cli.git"
+    "url": "git+https://github.com/LuxAlgo/pinets-cli.git"
   },
   "license": "AGPL-3.0-or-later",
   "author": "Alaa-eddine KADDOURI",
